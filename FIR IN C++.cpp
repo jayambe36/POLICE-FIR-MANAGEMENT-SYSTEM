@@ -1,3 +1,5 @@
+//SMITPATEL9898
+/*CentOS 7 IN VMWARE*/
 #include<iostream>	//input-output
 #include<fstream>	//file i/o
 #include<stdlib.h>	//system("clear");
@@ -312,4 +314,3 @@ int main()
 	exit:cout << endl << "\t\t <-------- JAY HIND -------->" << endl ;	// Last (Thank you) message
 	return 0;
 }
-		
