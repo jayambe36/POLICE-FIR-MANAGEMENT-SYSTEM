@@ -57,7 +57,7 @@ class FIR	//class FIR
 			    f << "\t\t| Weight*                    : *" << weight << " |" << endl;
 		    	f << "\t\t| Height*                    : *" << height << " |" << endl;
     			f << "\t\t| Hair*color*                : *" << hair_color << " |" << endl;
-	    		f << "\t\t| Eye*color*                 : * " << eye_color << " |" << endl;
+	    		f << "\t\t| Eye*color*                 : *" << eye_color << " |" << endl;
 			    f << "\t\t| Crime*                     : *" << crime << " |" << endl;				
 		    	f << "\t\t| Court*                     : *" << court_no << " |" << endl;
 	    		f << "\t\t| Act*                       : *" << act_no << " |" << endl;
