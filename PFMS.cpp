@@ -274,7 +274,7 @@ int main()
 		int choice;
 		choose:system("clear");
 		cout << endl << "|----------------POLICE FIR MANGEMENT SYSTEM----------------|" << endl << endl ;
-		cout << endl << "\t\t1. Add FIR Record\n\t\t2. Search Record\n\t\t3. Modify Record\n\t\t4. List Record\n\t\t5. Exit\n\n\t\tEnter Your Choice : ";
+		cout << endl << "\t\t1. Add FIR Record"<< endl <<"\t\t2. Search Record"<< endl <<"\t\t3. Modify Record"<< endl <<"\t\t4. List Record"<< endl <<"\t\t5. Exit"<< endl << endl <<"\t\tEnter Your Choice : ";
 		cin >> choice;
 		if(choice == 1)  
 		{
